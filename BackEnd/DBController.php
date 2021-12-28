@@ -6,7 +6,7 @@ class DBController
     protected $host = 'localhost';
     protected $user = 'root';
     protected $password = '';
-    protected $database = "blitz";
+    protected $database = "bot";
 
     public $con = null;
 
