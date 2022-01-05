@@ -1,3 +1,0 @@
-<?
- echo 'Initial Commit' . "\xA";
-?>
