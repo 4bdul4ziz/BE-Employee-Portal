@@ -65,14 +65,14 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 </head>
 
 <body>
-	<img class="wave" src="images/elegant-blue-flowing-wave-background.jpg">
+	<img class="wave" src="/Assets/elegant-blue-flowing-wave-background.jpg">
 	<div class="container">
 		<div class="img">
-			<img src="images/Untitled design (9).png">
+			<img src="/Assets/Untitled design (9).png">
 		</div>
 		<div class="login-content">
 			<form action="index.html">
-				<img src="Assets/images.webp">
+				<img src="/Assets/images.webp">
 				<h2 class="title">Welcome</h2>
 				<div class="input-div one">
 					<div class="i">
