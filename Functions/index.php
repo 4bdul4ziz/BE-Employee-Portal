@@ -10,12 +10,12 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="title"> Chatbot</div>
+        <div class="title">Chatbot</div>
         <div class="form">
             <div class="bot-inbox inbox">
                 <div class="icon">
                 <i class="fas fa-user-tie"></i>
-                </div>
+                </div> 
                 <div class="msg-header">
                     <p>Hey! Nice to see you<br> on our site . You can<br> chat us here for <br>instant support .
                          Try <br>texting us :-</p>

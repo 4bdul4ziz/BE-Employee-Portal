@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "bot") or die("Database Error");
+$conn = mysqli_connect("localhost", "root", "", "blitz") or die("Database Error");
 
 // getting user message through ajax
 $getMesg = mysqli_real_escape_string($conn, $_POST['text']);
@@ -16,7 +16,7 @@ if(mysqli_num_rows($run_query) > 0){
     $replay = $fetch_data['replies'];
     echo $replay;
 }else{
-    echo "Sorry can't understand your query!";
+    echo "Sorry, can't understand your query!";
 }
 
 ?>
