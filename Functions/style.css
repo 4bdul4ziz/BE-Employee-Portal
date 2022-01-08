@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
-{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -36,7 +36,7 @@ html,body{
     border-radius: 5px;
     border: 1px solid lightgrey;
     border-top: 0px;
-}
+} 
 .wrapper .title{
     background: #1a9935;
     color: #fff;
@@ -149,7 +149,7 @@ html,body{
 .typing-field .input-data button:hover{
     background: #006fef;
 }
-{
+*{
     box-sizing: border-box;
 }
 
